@@ -14,7 +14,9 @@ This case study explores the Super Bowl and answers the following questions:
 
 # Presentation
 
-You can download the presentation deck by clicking [here.](Presentation/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game_compressed.pdf)
+You can download the presentation deck by clicking [here.](TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game_compressed.pdf)
+
+
 
 
 # Outcome
